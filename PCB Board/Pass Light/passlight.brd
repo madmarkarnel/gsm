@@ -3,7 +3,7 @@
 <eagle version="9.5.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.05" altunitdist="mm" altunit="mm"/>
@@ -670,9 +670,9 @@ design rules under a new name.</description>
 <polygon width="0.1016" layer="1">
 <vertex x="0.5" y="12.6"/>
 <vertex x="6.7" y="12.6"/>
-<vertex x="7.5" y="11.8"/>
-<vertex x="7.5" y="7"/>
-<vertex x="26.2" y="7"/>
+<vertex x="7.2" y="12.1"/>
+<vertex x="7.2" y="6.7"/>
+<vertex x="26.2" y="6.7"/>
 <vertex x="26.2" y="1.6"/>
 <vertex x="7.9" y="1.6"/>
 <vertex x="6.7" y="2.8"/>

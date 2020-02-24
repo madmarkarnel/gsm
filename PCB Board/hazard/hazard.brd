@@ -1717,7 +1717,10 @@ design rules under a new name.</description>
 <vertex x="0.2" y="16.3"/>
 <vertex x="34.2" y="16.3"/>
 <vertex x="34.2" y="0.2"/>
-<vertex x="0.2" y="0.2"/>
+<vertex x="14.6" y="0.2"/>
+<vertex x="14.6" y="5.5"/>
+<vertex x="0.3" y="5.5"/>
+<vertex x="0.2" y="5.4"/>
 </polygon>
 </signal>
 <signal name="L_IN">
